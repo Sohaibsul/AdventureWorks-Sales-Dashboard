@@ -24,10 +24,11 @@ https://www.kaggle.com/datasets/tituspr/adventureworks2022-excel-format
 ## Dashboard Preview
 
 ### Page 1
-![dashboard.png](screenshots/dashboard_page1.png)
+![Dashboard Page 1](dashboard.png)
 
 ### Page 2
-![dashboard_page2.png](screenshots/dashboard_page2.png)
+
+![Dashboard Page 2](dashboard_page2.png)
 
 ## Tools Used
 - Power BI Desktop
